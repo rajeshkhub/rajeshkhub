@@ -13,7 +13,7 @@ I'm currently learning Java and building my programming fundamentals.
 ## 🎯 Goal
 Land my first developer role / get into a good CS program
 <!--
-**Gutshere/Gutshere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rajeshkhub/rajeshkhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
