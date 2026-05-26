@@ -1,4 +1,4 @@
-# Hi, I'm Gutshere 👋
+# Hi, I'm K Rajesh 👋
 
 I'm currently learning Java and building my programming fundamentals.
 
