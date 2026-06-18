@@ -3,7 +3,7 @@
 I'm currently learning Java and building my programming fundamentals.
 
 ## 🔧 What I'm working on
-- Java practice programs (loops, arrays, strings, math)
+- Java practice programs (loops, arrays, strings)
 - Getting comfortable with problem solving
 
 ## 📚 Currently Learning
