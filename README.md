@@ -7,8 +7,9 @@ I'm currently learning Java and building my programming fundamentals.
 - Getting comfortable with problem solving
 
 ## 📚 Currently Learning
-- Java fundamentals
-- Data Structures (coming soon)
+- Core Java
+- OOPs
+- Data Structures Algorithms
 
 ## 🎯 Goal
 Land my first developer role / get into a good CS program
